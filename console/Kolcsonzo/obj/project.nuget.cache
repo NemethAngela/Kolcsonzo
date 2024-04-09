@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCfiyC24EbwuvWk2mv8m60pHHdo7GfC4At5nbN2ClhwEjDX/KwIUjPp59zR9rML9FbfG4JCz0bJnNuVYrEShhg==",
+  "success": true,
+  "projectFilePath": "C:\\Angéla\\KULKER\\2_ÉVF\\Gyak_Vizsgara\\Kolcsonzo\\console\\Kolcsonzo\\Kolcsonzo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nemet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\nemet\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512",
+    "C:\\Users\\nemet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\nemet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
