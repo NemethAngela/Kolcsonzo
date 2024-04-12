@@ -1,0 +1,14 @@
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\bin\Debug\net6.0\ClassLibrary.runtimeconfig.json
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ClassLibrary.genruntimeconfig.cache
+C:\Angéla\KULKER\2_ÉVF\Gyak_Vizsgara\Kolcsonzo\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

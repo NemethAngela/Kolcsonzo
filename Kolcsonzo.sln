@@ -5,7 +5,11 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kolcsonzo", "console\Kolcsonzo\Kolcsonzo.csproj", "{B1DC3776-4C35-452A-8AE6-15E702D138C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolcsonzoAsztali", "asztali\KolcsonzoAsztali\KolcsonzoAsztali.csproj", "{DDC1939F-173E-44AC-BEF8-57DA9BE3F493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KolcsonzoAsztali", "asztali\KolcsonzoAsztali\KolcsonzoAsztali.csproj", "{DDC1939F-173E-44AC-BEF8-57DA9BE3F493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{43E2F625-A8CA-4827-B9EE-9A354863AFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{C11466E1-3AD0-4F60-9B56-3E51C0899CB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DDC1939F-173E-44AC-BEF8-57DA9BE3F493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC1939F-173E-44AC-BEF8-57DA9BE3F493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC1939F-173E-44AC-BEF8-57DA9BE3F493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E2F625-A8CA-4827-B9EE-9A354863AFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E2F625-A8CA-4827-B9EE-9A354863AFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E2F625-A8CA-4827-B9EE-9A354863AFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E2F625-A8CA-4827-B9EE-9A354863AFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11466E1-3AD0-4F60-9B56-3E51C0899CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11466E1-3AD0-4F60-9B56-3E51C0899CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11466E1-3AD0-4F60-9B56-3E51C0899CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11466E1-3AD0-4F60-9B56-3E51C0899CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
