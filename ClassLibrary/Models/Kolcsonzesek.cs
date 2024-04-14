@@ -4,8 +4,13 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ClassLibrary.Models
 {
-    public partial class Kolcsonzesek
+    public class Kolcsonzesek
     {
+        public Kolcsonzesek()
+        {
+            
+        }
+
         [Key]
         public int Id { get; set; }
         public int KolcsonzokId { get; set; }

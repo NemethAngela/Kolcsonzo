@@ -4,18 +4,18 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ClassLibrary.Models
 {
-    public partial class Kolcsonzok
+    public class Kolcsonzok
     {
         public Kolcsonzok()
         {
             Kolcsonzeseks = new HashSet<Kolcsonzesek>();
         }
 
-        [Key]
+        //[Key]
         public int Id { get; set; }
         public string? Nev { get; set; }
         public string SzulIdo { get; set; } = null!;
 
-        public virtual ICollection<Kolcsonzesek> Kolcsonzeseks { get; set; }
+        public virtual ICollection<Kolcsonzesek> Kolcsonzeseks { get; set; } = new List<Kolcsonzesek>();
     }
 }
